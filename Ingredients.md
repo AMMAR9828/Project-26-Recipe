@@ -1,0 +1,13 @@
+ (//Items used for fry chiken.)
+ 
+  1 (4 pound) chiken, cut into pieces.
+
+  1 cup buttermilk
+
+  2 cups all-purpose flour for coating
+
+  1 teaspoon paprika
+
+  salt and pepper to taste
+
+  2 quarts vegetable-oil for for frying
